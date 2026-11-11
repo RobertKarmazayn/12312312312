@@ -1,3 +1,13 @@
+<img width="2560" height="1665" alt="figure-06" src="https://github.com/user-attachments/assets/aa5ec925-fcef-4fc7-8fa8-da3663c83a52" />
+<img width="2560" height="1665" alt="figure-08" src="https://github.com/user-attachments/assets/06d3e2aa-835c-4ce9-8b4b-070292641ce7" />
+<img width="2560" height="1665" alt="figure-02" src="https://github.com/user-attachments/assets/13232d74-8100-4db0-b412-19b4aaa4e3ae" />
+<img width="2560" height="1665" alt="figure-10" src="https://github.com/user-attachments/assets/d9799ad3-1dcf-4849-b1a0-eea798e7366b" />
+<img width="2560" height="1665" alt="figure-09" src="https://github.com/user-attachments/assets/33340955-9558-4f27-aef9-9f6ee2f0bc2a" />
+<img width="2560" height="1665" alt="figure-11" src="https://github.com/user-attachments/assets/fbc8bb25-888d-4be9-8d70-4cda4dcafaa3" />
+<img width="2560" height="1665" alt="figure-01" src="https://github.com/user-attachments/assets/a00d2478-736b-40fa-8d4f-5334cd7af9eb" />
+<img width="2560" height="1665" alt="figure-03" src="https://github.com/user-attachments/assets/4d950aca-f1d9-4632-a3fe-fe6ca010eb28" />
+<img width="2560" height="1665" alt="figure-04" src="https://github.com/user-attachments/assets/9c639978-4f51-4287-bff3-6879da25610f" />
+<img width="2560" height="1665" alt="figure-07" src="https://github.com/user-attachments/assets/c732ae72-b7b4-4368-bedd-d325d6feeda8" />
 <div align="center">
 
 <strong>РОССИЙСКИЙ УНИВЕРСИТЕТ ДРУЖБЫ НАРОДОВ</strong>
