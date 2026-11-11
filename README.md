@@ -8,7 +8,7 @@
 
 <br><br><br>
 
-<strong>ЛАБОРАТОРНАЯ РАБОТА № 3</strong>
+<strong>ЛАБОРАТОРНАЯ РАБОТА № 4</strong>
 
 <br>
 
